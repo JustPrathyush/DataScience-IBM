@@ -1,6 +1,6 @@
 ## Data Science - IBM
 
-This repository is for notes taken from the [IBM Data Science Course](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
+This repository is for notes taken from the [IBM Data Science Professional Certificate - Course](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
 
 Table of Contents:
 
