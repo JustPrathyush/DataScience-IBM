@@ -7,7 +7,7 @@ Table of Contents:
 - [What is Data Science](01-What_is_Data_Science/readme.md)
 - [Tools for Data Science](02-Tools_for_Data_Science/readme.md)
 - [Data Science Methodology](03-Data_Science_Methodology/readme.md)
-- [Python for Data Science and AI Development](04-Python_for_Data_Science_AI_&_Development/readme.md)
+- [Python for Data Science, AI & Development](04-Python_for_Data_Science,AI_&_Development/readme.md)
 - [Python Project for Data Science](c05-python-project-for-data-science/readme.md)
 - [Databases and SQL for Data Science with Python](c06-databases-and-sql-for-data-science-with-python/readme.md)
 - [Statistics for Data Science with Python &#9650;*](c06-Statistics-for-Data-Science-with-Python/readme.md)
