@@ -4,10 +4,10 @@ This repository is for notes taken from the [IBM Data Science Professional Certi
 
 Table of Contents:
 
-- [What is Data Science](01-What_is_Data_Science/readme.md)
-- [Tools for Data Science](02-Tools_for_Data_Science/readme.md)
-- [Data Science Methodology](03-Data_Science_Methodology/readme.md)
-- [Python for Data Science, AI & Development](04-Python_for_Data_Science,AI_&_Development/readme.md)
+- [What is Data Science](https://github.com/JustPrathyush/DataScience-IBM/tree/main/01-What%20is%20Data%20Science)
+- [Tools for Data Science](https://github.com/JustPrathyush/DataScience-IBM/tree/main/02-Tools%20for%20Data%20Science)
+- [Data Science Methodology](https://github.com/JustPrathyush/DataScience-IBM/tree/main/03-Data%20Science%20Methodology)
+- [Python for Data Science, AI & Development](https://github.com/JustPrathyush/DataScience-IBM/tree/main/04-Python%20for%20Data%20Science%20AI%20%26%20Development)
 - [Python Project for Data Science](c05-python-project-for-data-science/readme.md)
 - [Databases and SQL for Data Science with Python](c06-databases-and-sql-for-data-science-with-python/readme.md)
 - [Statistics for Data Science with Python](c06-Statistics-for-Data-Science-with-Python/readme.md)
